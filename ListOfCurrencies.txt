@@ -1,0 +1,70 @@
+Countries
+AUD:Australia
+AUD:Kiribati
+AUD:Nauru
+AUD:Tuvalu
+BGN:Bulgaria
+BRL:Brazil
+CAD:Canada
+CHF:Liechtenstein
+CHF:Switzerland
+CNY:China
+CZK:Czech Republic
+DKK:Denmark
+EUR:Andorra
+EUR:Austria
+EUR:Belgium
+EUR:Cyprus
+EUR:Estonia
+EUR:Finland
+EUR:France
+EUR:Germany
+EUR:Greece
+EUR:Ireland
+EUR:Italy
+EUR:Kosovo
+EUR:Latvia
+EUR:Lithuania
+EUR:Luxembourg
+EUR:Malta
+EUR:Monaco
+EUR:Montenegro
+EUR:Netherlands
+EUR:Portugal
+EUR:San Marino
+EUR:Slovakia
+EUR:Slovenia
+EUR:Spain
+EUR:Vatican City
+GBP:United Kingdom
+HKD:Hong Kong
+HRK:Croatia
+HUF:Hungary
+IDR:Indonesia
+ILS:Israel
+ILS:Palestine
+INR:India
+ISK:Iceland
+JPY:Japan
+KRW:South Korea
+MXN:Mexico
+MYR:Malaysia
+NOK:Norway
+NZD:New Zealand
+PHP:Philippines
+PLN:Poland
+RON:Romania
+RUB:Russia
+SEK:Sweden
+SGD:Singapore
+THB:Thailand
+TRY:Turkey
+USD:East Timor
+USD:Ecuador
+USD:El Salvador
+USD:Marshall Islands
+USD:Micronesia
+USD:Palau
+USD:United States
+USD:Zimbabwe
+ZAR:South Africa
